@@ -1,0 +1,12 @@
+---
+title: "Accessing Easley Cluster"
+---
+
+
+Access easley at :
+
+```{r}
+#| eval: false
+ssh <auburn-user-id>@easley.auburn.edu
+```
+[Easley User's Guide](https://hpc.auburn.edu/hpc/docs/hpcdocs/build/html/easley/easley.html#)
